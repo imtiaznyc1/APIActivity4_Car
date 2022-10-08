@@ -1,0 +1,15 @@
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/bin/Debug/net6.0/Activity_4
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/bin/Debug/net6.0/Activity_4.deps.json
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/bin/Debug/net6.0/Activity_4.runtimeconfig.json
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/bin/Debug/net6.0/Activity_4.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/bin/Debug/net6.0/Activity_4.pdb
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.csproj.AssemblyReference.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.AssemblyInfoInputs.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.AssemblyInfo.cs
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.csproj.CoreCompileInputs.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/refint/Activity_4.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.pdb
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/Activity_4.genruntimeconfig.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_4/obj/Debug/net6.0/ref/Activity_4.dll
